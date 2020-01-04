@@ -1,1 +1,1 @@
-App gets weather information from any city the user typoes into the input(e.g. "25 degrees, cloudy in New York). The data appears on a fancy weather card with an image.
+App uses a weather API key to get weather information from any city the user types into the input(e.g. "25 degrees, cloudy in New York"). The data appears on a stylish weather card with an appropriate image for each weather pattern.
